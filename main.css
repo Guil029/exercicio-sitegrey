@@ -65,7 +65,19 @@ section p{
     font-family: 'Open Sans', sans-serif;
 }
 
-
 .Main-Characters{
     margin-right: 32px;
+}
+
+.about-serie{
+    display: flex;
+}
+
+.characters-list{
+    display: flex;
+}
+
+.characters-box{
+    display: inline;
+    padding: 10px;
 }
